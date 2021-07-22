@@ -1,5 +1,5 @@
-# Mars3D最简项目模版 - ES5传统版  
-    Mars3D平台，在`传统JS技术栈`的最简的应用项目模版。
+# Mars3D三维模型单体化  
+    
   
  > 其他技术栈，请参考： [https://github.com/marsgis/mars3d](https://github.com/marsgis/mars3d)
  
